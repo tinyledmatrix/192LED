@@ -6,5 +6,6 @@ This will look like this, when ready:
 ![image](https://cdn.hackaday.io/images/6536411461501878543.png "rendering created with Sketchup and eagleUP")
 
 ####License
-First  will only publish Gerber files to reproduce the PCB by yourself. These Gerber files are under a CC BY-NC-SA 4.0 license. 
+First  I will only publish Gerber files to reproduce the PCB by yourself. These Gerber files are under a CC BY-NC-SA 4.0 license. 
 See also the license information in the different sub directories. 
+I did not started to write any firmware for the Microcontroller yet. As soon as it is showable I will also publish the firmware. 
