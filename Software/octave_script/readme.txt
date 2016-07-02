@@ -1,0 +1,2 @@
+old: Simple script to vonvert 8x8 pixel images to the format aceppted by 192:LED over the UART port.
+new: now is the instrumen-control package used for wrting the image direct in octave over the com-port to the display
